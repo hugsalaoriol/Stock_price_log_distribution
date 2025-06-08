@@ -17,7 +17,7 @@ This project investigates the statistical properties of price changes through lo
 
 ## Contents
 
-- `main_analysis.ipynb`: Jupyter notebook with the full data analysis workflow.
+- `Price_differences.py`: Python script with the full data analysis workflow.
 - `README.md`: This file.
 - `results/`: Folder containing output plots and the compiled PDF report.
 
@@ -43,10 +43,10 @@ This project investigates the statistical properties of price changes through lo
    pip install -r requirements.txt
    ```
 
-4. Open and run the Jupyter notebook:
+4. Open and run the Python file:
 
    ```bash
-   jupyter notebook main_analysis.ipynb
+   python Price_differences.py
    ```
 
 ---

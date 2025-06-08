@@ -17,12 +17,7 @@ This project investigates the statistical properties of price changes through lo
 
 ## Contents
 
-Stock_price_log_distribution/
-├── main_analysis.py              # Python script with the full analysis
-├── requirements.txt              # Required Python libraries
-├── data/                         # (Optional) Folder for raw or processed datasets
-├── results/
-    └── report.pdf                # Final compiled PDF report
+<pre> ```text Stock_price_log_distribution/ ├── main_analysis.py # Python script with the full analysis ├── requirements.txt # Required Python libraries ├── data/ # (Optional) Folder for raw or processed datasets ├── results/ │ └── report.pdf # Final compiled PDF report ``` </pre>
 
 ---
 
